@@ -17,7 +17,7 @@
    - shape
    - columns
    - head()
-   - tail
+   - tail()
    - sample()
    - info()
    - describe()
